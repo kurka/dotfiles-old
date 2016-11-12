@@ -220,7 +220,7 @@ bindsym $mod+6 workspace 6
 bindsym $mod+7 workspace 7
 bindsym $mod+8 workspace 8
 bindsym $mod+9 workspace 9
-bindsym $mod+0 workspace $w10
+bindsym $mod+0 workspace 10
 
 #left monitor workspaces:
 bindsym $mod+q workspace $w1r
